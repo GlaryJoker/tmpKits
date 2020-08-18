@@ -1,0 +1,9 @@
+{
+    "name": "yunjing/kits",
+    "type": "library",
+    "require": {
+        "intervention/image": "^2.5",
+        "maatwebsite/excel": "^3.1"
+    },
+    "description": ""
+}
